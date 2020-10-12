@@ -1,3 +1,3 @@
 # magic8ball
-It's a project on codecademy.
-Not completed yet.
+It's a project on codecademy,
+not completed yet.
